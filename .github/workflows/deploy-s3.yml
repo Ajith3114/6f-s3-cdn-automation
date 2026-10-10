@@ -14,11 +14,11 @@ permissions:
 #dj
 env:
   FILE:     index.html
-  BUCKET:   6f-oct-3-2026 
+  BUCKET:   6f-oct-10-10 
   BACKUP:   backups/index-previous.html
   REGION:   us-east-1
-  DIST_ID:  E3O0T4DM8VZSJO
-  SITE_URL: https://d1c104x269lyxv.cloudfront.net/
+  DIST_ID:  E4XMDCTJBXL3W
+  SITE_URL: https://d2oj7ogdvnd8k0.cloudfront.net/
   MARKER:   SITE-OK
 
 jobs:
